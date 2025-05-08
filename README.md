@@ -116,8 +116,3 @@ gogoglo-backend/
 
 ## License
 This project is licensed under the MIT License.
-
-## Contact
-For any inquiries, please reach out to [your-email@example.com](mailto:your-email@example.com)
-
-        Too many current requests. Your queue position is 1. Please wait for a while or switch to other models for a smoother experience.
